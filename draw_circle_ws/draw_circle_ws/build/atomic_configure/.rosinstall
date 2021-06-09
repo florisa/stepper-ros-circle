@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thiagoviek/dev/ROS/draw_circle_ws/devel/setup.sh

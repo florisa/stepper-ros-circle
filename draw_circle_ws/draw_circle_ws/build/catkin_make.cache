@@ -1,0 +1,2 @@
+shape_drawer_test
+-DCATKIN_DEVEL_PREFIX=/home/thiagoviek/dev/ROS/draw_circle_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thiagoviek/dev/ROS/draw_circle_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/thiagoviek/dev/ROS/draw_circle_ws/devel
+
+Name: shape_drawer_test
+Description: Description of shape_drawer_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy roscpp std_msgs message_runtime

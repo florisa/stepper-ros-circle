@@ -1,0 +1,8 @@
+prefix=/home/thiagoviek/dev/ROS/draw_circle_ws/install
+
+Name: python_test
+Description: Description of python_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime
